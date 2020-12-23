@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="talkback">TalkBack</string>
+    <string name="by_akhilesh_kumar">By Akhilesh Kumar</string>
+</resources>
